@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+	<head>
+		<title>Musings</title>
+		<dateCreated>Tue, 12 Oct 2021 02:22:28 GMT</dateCreated>
+		<flPublic>true</flPublic>
+		<urlPublic>http://drummer.scripting.com/_am1t/blog.opml</urlPublic>
+		<description>by Amit Gawande</description>
+		<copyright>© 2021 Amit Gawande</copyright>
+		<urlLinkblogJson>https://s3.amazonaws.com/radio3.io/users/_am1t/linkblog.json</urlLinkblogJson>
+		<urlHeaderImage>https://static.amitgawande.com/images/2021/header.jpg</urlHeaderImage>
+		<urlBlogWebsite>https://ol.amitgawande.com/</urlBlogWebsite>
+		<timeZoneOffset>+5:30</timeZoneOffset>
+		<urlTemplate>https://ol.amitgawande.com/static/index.html</urlTemplate>
+		<urlAboutOpml>http://drummer.scripting.com/_am1t/about.opml</urlAboutOpml>
+		<urlGlossary>http://drummer.scripting.com/_am1t/shortcuts.opml</urlGlossary>
+		<ownerTwitterScreenName>_am1t</ownerTwitterScreenName>
+		<ownerName>Amit Gawande😷</ownerName>
+		<ownerId>http://twitter.com/_am1t</ownerId>
+		<urlUpdateSocket>ws://drummer.scripting.com:1232/</urlUpdateSocket>
+		<dateModified>Sun, 05 Dec 2021 12:37:33 GMT</dateModified>
+		<expansionState>1,2,4,8,10,11,26,27,32,36,40,42,44,49,52,59,61,63,66,75,82,87,91,93,94,96,98,100,103,106,107,112</expansionState>
+		<lastCursor>4</lastCursor>
+		</head>
+	<body>
+		<outline text="November 2021" created="Mon, 01 Nov 2021 03:58:43 GMT" name="november2021" type="calendarMonth">
+			<outline text="November 30" created="Tue, 30 Nov 2021 01:17:44 GMT" type="calendarDay" name="30">
+				<outline text="Is 280 characters limit still a differentiator for Twitter? Why can't they just lift it? I understand that would mean some modifications and restructuring of how the Timeline is shown. But they did do that for images. And expanded links. So, why not simple posts? I mean, there is no technical limitation why Twitter need to be a platform only for microblogging, is there?" created="Tue, 30 Nov 2021 17:07:20 GMT" type="outline"/>
+				<outline text="&lt;a href=&quot;https://indieweb.org&quot;&gt;IndieWeb&lt;/a&gt; fascinates me. As a concept, it's brilliant to imagine the benefits when disparate entities on web, across platforms, could interconnect with one another. But it pains me that this remains only a dream. The standards are too many, and too tricky to implement and make use of individually. Basically, it is difficult to setup and even more so to maintain. I wish that wasn't the case. But with no big platforms keen on supporting the standards well, the dream of interoperability remains a dream." created="Tue, 30 Nov 2021 13:11:12 GMT" type="outline"/>
+				<outline text="People, stop cursing Twitter. The service is not going away any time soon. Don't use it or learn to use it." created="Tue, 30 Nov 2021 13:09:54 GMT" type="outline"/>
+				<outline text="I do not like &lt;a href=&quot;https://www.amitgawande.com/2021/11/30/travelling-but-not.html&quot;&gt;traveling as a tourist&lt;/a&gt; where the intension is to find out everything about a place. I travel for the experience, for pulling myself out from the daily grind. I did just that the last weekend." created="Tue, 30 Nov 2021 01:17:45 GMT" type="outline"/>
+				</outline>
+			<outline text="November 29" created="Mon, 29 Nov 2021 01:19:23 GMT" type="calendarDay" name="29">
+				<outline text="There's some simplicity in Drummer that the writing and posting process feels completely frictionless. I have &lt;a href=&quot;https://ol.amitgawande.com/2021/10/21/163615.html?title=benefitsOfWritingWithDrummer&quot;&gt;already written&lt;/a&gt; about the benefits. But I am reminded of them every time I click &quot;build&quot; for the Drummer blog." created="Mon, 29 Nov 2021 15:31:20 GMT" type="outline"/>
+				<outline text="Where I write matters for me. Some spaces just don't let me write freely, my mind feels stuck. And a few places feel as if they nurture the thoughts. I have found one such corner for myself, I visit that at every dawn." created="Mon, 29 Nov 2021 14:02:06 GMT" type="outline"/>
+				<outline text="Another mutant of the Coronavirus. Another &lt;a href=&quot;https://www.nytimes.com/2021/11/27/world/africa/coronavirus-omicron-africa.html&quot;&gt;slew of travel restrictions&lt;/a&gt;. It's as if this virus has a villainous mind of itself. Fuck Corona! " created="Mon, 29 Nov 2021 01:19:24 GMT" type="outline"/>
+				<outline text="Apps Suite as a Service" created="Mon, 29 Nov 2021 15:17:32 GMT" type="outline">
+					<outline text="I came across the &lt;a href=&quot;https://setapp.com&quot;&gt;Setapp&lt;/a&gt; again today. It's usually sold as Netflix for apps. Basically for a fixed monthly subscription fee, you get to use any app from their suite of bundled apps. They sell it as &quot;think tasks, not apps&quot;. In short, any time you need to do something on your Mac, say convert MP3, you just type that and get an app that does that task." created="Mon, 29 Nov 2021 15:17:46 GMT"/>
+					<outline text="Nice idea, but am not sold. It's not often that I need to do a task that I am not sure of the app for. If I do that task often, I already own an app. If I do it that one time, I will find a free or web option. Why pay a &lt;i&gt;monthly&lt;/i&gt; fee then?" created="Mon, 29 Nov 2021 15:21:46 GMT"/>
+					<outline text="I know there's already so much said about subscription fatigue. But this is next level. Not only you are asking for a subscription fee, but you are also forcing the use case down your user's throat. Why do that?" created="Mon, 29 Nov 2021 15:24:31 GMT"/>
+					</outline>
+				</outline>
+			<outline text="November 25" created="Thu, 25 Nov 2021 00:40:42 GMT" type="calendarDay" name="25">
+				<outline text="Feeling focused is a misnomer. You don't &lt;i&gt;feel &lt;/i&gt;focused, you &lt;i&gt;are&lt;/i&gt;. When you know you feel it, you are already distracted." created="Thu, 25 Nov 2021 00:40:43 GMT" type="tweet" tweetId="1463669430500708354" tweetUserName="_am1t"/>
+				</outline>
+			<outline text="November 23" created="Tue, 23 Nov 2021 16:57:07 GMT" type="calendarDay" name="23">
+				<outline text="Dave has released &lt;a href=&quot;http://scripting.com/drummer/blog/2021/11/23/161903.html?title=newVersionOfPublicFolderApp&quot;&gt;a new version&lt;/a&gt; of his PublicFolder app that addresses &lt;a href=&quot;https://ol.amitgawande.com/2021/11/18/124922.html?title=PublicFolderisnotexactlywhatIthoughtitwas&quot;&gt;a use case that I had&lt;/a&gt;. When I wrote that post, I wasn't use that my use case was something that the app wanted to handle. I am glad that Dave thought it did. I can use the app again now." created="Tue, 23 Nov 2021 16:57:08 GMT" type="outline"/>
+				<outline text="Just Ship It" created="Tue, 23 Nov 2021 17:01:35 GMT" type="outline">
+					<outline text="I have heard this adage many times now. It also gets attributed to many people. But it doesn't matter who said it first. I have come to realise that, with software, shipping it is the only way to improve it." created="Tue, 23 Nov 2021 17:01:44 GMT"/>
+					<outline text="Get the feedback from users. They may like it, or they may not. But at least you would know what they do like and what they don't. I see there are two ways to go about it. You may spend months on perfecting a feature that a user may not even care about. Or you may spend a week to work on it and put it out there to know what the user thinks. It will save you time and a heartburn later." created="Tue, 23 Nov 2021 17:03:20 GMT"/>
+					<outline text="This is applicable to ideas to. It is better to bounce your ideas through a few folks you trust and get their inputs. May be what you think as most unique may be ridden with flaws. It makes no sense to go through months of implementation only to find the flaws later." created="Tue, 23 Nov 2021 17:06:49 GMT"/>
+					<outline text="Early feedback is the best feedback, the only one that's useful." created="Tue, 23 Nov 2021 17:09:24 GMT"/>
+					</outline>
+				</outline>
+			<outline text="November 21" created="Sun, 21 Nov 2021 02:02:03 GMT" type="calendarDay" name="21">
+				<outline text="I used to like reading books alone. I can't focus beyond a few pages anymore now. I decided to fix this -- surprisingly, the genre of focus music works for me. The usualities around me are distracting other wise." created="Sun, 21 Nov 2021 13:28:26 GMT" type="outline"/>
+				<outline text="I don't think many people use SmugMug yet, I &lt;a href=&quot;https://www.amitgawande.com/2021/11/19/i-use-google.html&quot;&gt;hardly got any recommendation&lt;/a&gt; for the service. That's my biggest worry about selecting an unknown service for something so important as photos. It can sure act as an additional backup. But am I ready to make it the only option? May be not, yet." created="Sun, 21 Nov 2021 02:02:04 GMT" type="outline"/>
+				<outline text="I don't listen to Podcasts anymore " created="Sun, 21 Nov 2021 02:09:01 GMT" type="markdown">
+					<outline text="It's been almost a year now that I listened to the last Podcast. For some reason, this medium just fell off my liking radar. They all *sound* fake after a moment. There are a few reasons according to me." created="Sun, 21 Nov 2021 02:09:25 GMT"/>
+					<outline text="" created="Sun, 21 Nov 2021 02:31:11 GMT"/>
+					<outline text="First, they put an unnecessary burden on themselves by trying to keep it regular. How can you release something interesting every week? Second, all sound so similar. It is a few **guys** chatting about things related and unrelated. How is that not boring?" created="Sun, 21 Nov 2021 02:11:44 GMT"/>
+					<outline text="" created="Sun, 21 Nov 2021 02:31:25 GMT"/>
+					<outline text="Of course, there are a few that are not chat shows. But they are over-produced, almost audio shows. That just entertainment and I already have my fair share of entertainment marked throughout the day. The streaming services have that booked." created="Sun, 21 Nov 2021 02:14:35 GMT"/>
+					<outline text="All in all, the voices need to be real. A wish to gain and satisfy advertisers kill most. What's the benefit that's left then? [I see none for the listeners](https://www.amitgawande.com/2018/07/25/000800.html)." created="Sun, 21 Nov 2021 02:17:13 GMT"/>
+					</outline>
+				</outline>
+			<outline text="November 20" created="Sat, 20 Nov 2021 07:21:25 GMT" type="calendarDay" name="20">
+				<outline text="Booking hotels is still a messy process, especially for busy hotels. It's stress inducing, till you get the bookings done for your rooms. What makes it even more trickier is that they take the bookings both online and over call. So it's always a race against time to get the booking done." created="Sat, 20 Nov 2021 07:21:26 GMT" type="outline"/>
+				</outline>
+			<outline text="November 19" created="Fri, 19 Nov 2021 11:38:12 GMT" type="calendarDay" name="19">
+				<outline text="I want &lt;a href=&quot;https://www.amitgawande.com/2021/11/19/i-use-google.html&quot;&gt;to use SmugMug&lt;/a&gt;, but I don't know if I will always want to keep up with the service. It is my photos, a really valuable aspect of my life that I am talking about. Can I trust the service? But then I do trust Google with my photos. So why can't I others? I believe Google has a lot of benefit to maintain their user's photos. It's not like they are giving it for free -- they already charge for it indirectly by charging for storage. But will this be true with small private service? Can they keep the service always profit-making to keep it up?" created="Fri, 19 Nov 2021 14:37:48 GMT" type="outline"/>
+				<outline text="Markdown in Drummer" created="Fri, 19 Nov 2021 11:38:13 GMT" type="markdown">
+					<outline text="Dave is [testing support](https://github.com/scripting/drummerRFC/issues/14) for Markdown in Drummer. However, I didn't realize it was *already* available. Here's me trying a post with Markdown. What about blockquote? Here's a try, I'm curious how will this be rendered." created="Fri, 19 Nov 2021 11:50:48 GMT"/>
+					<outline text="&gt; The idea is that if a node has that type, when rendering it in Old School, we convert the text from Markdown to HTML." created="Fri, 19 Nov 2021 11:45:34 GMT"/>
+					<outline text="It is better to mark a whole post *with title* as Markdown. Here's the list of benefits I see now." created="Fri, 19 Nov 2021 11:53:39 GMT">
+						<outline text="* This gives me an editor that I am most used to. Most of my posts are written in Markdown. So, it is welcome to get the same behaviour in Drummer too." created="Fri, 19 Nov 2021 11:59:05 GMT"/>
+						<outline text="* Unlike [my initial comment](https://github.com/scripting/drummerRFC/issues/14#issuecomment-972864161) to Dave, I understand the benefit of marking a node as Markdown. I can very well choose not to make all nodes as Markdown, but then selectively mark a post, one like this, as Markdown." created="Fri, 19 Nov 2021 12:01:06 GMT"/>
+						<outline text="* This will be really useful for longer posts as basic styling like italics, bold and links are already well handled. For anything that's not handled like ~strikethrough~ or `inline code`, this would be really useful." created="Fri, 19 Nov 2021 12:04:06 GMT"/>
+						<outline text="* The whole post is rendered as a single post, each paragraph is not considered as separate node. So, each paragraph does not get its individual link. I like that, though I am not certain if that is intentional." created="Fri, 19 Nov 2021 12:45:50 GMT"/>
+						<outline text="* The Markdown node cannot handle multiple paragraphs (basically, multiple basic child nodes, which are neither quotes, lists etc). Only way I could make it work is to include `&lt;br/&gt;` at the end. I am certain this is a miss on Dave's part, and he will fix it." created="Fri, 19 Nov 2021 12:58:56 GMT"/>
+						<outline text="* I can use HTML in Markdown node, refer the last line of this post. Nice!" created="Fri, 19 Nov 2021 12:56:33 GMT"/>
+						</outline>
+					<outline text="I realized, of course, I will have to pull in the latest `style.css` and other template files. For example, otherwise the list is not rendered correctly -- elements need the style rules. And I believe Dave [hasn't checked in](https://github.com/scripting/drummerCms) the changes yet. I made the changes to [my custom stylesheet](https://github.com/am1t/drummercms) -- I will have to undo this once Dave checks in." created="Fri, 19 Nov 2021 12:17:30 GMT"/>
+					<outline text="" created="Sun, 21 Nov 2021 03:00:25 GMT"/>
+					<outline text="In short, I like this. I know where I am going to make sure of it. Here are the two instances I can think of now." created="Fri, 19 Nov 2021 12:48:58 GMT">
+						<outline text="" created="Sun, 21 Nov 2021 03:00:29 GMT"/>
+						<outline text="1. If there's any time when I feel I **can use the Markdown elements**, I will convert that node to Markdown. " created="Fri, 19 Nov 2021 12:50:14 GMT"/>
+						<outline text="" created="Sun, 21 Nov 2021 03:00:32 GMT"/>
+						<outline text="2. If I want to write **a long post with lists and links involved**, or even code snippets, I will convert the title node to Markdown." created="Fri, 19 Nov 2021 12:50:32 GMT"/>
+						<outline text="" created="Sun, 21 Nov 2021 03:00:34 GMT"/>
+						</outline>
+					<outline text="Beyond these two instances, the basic outline works well. I do not want to unnecessarily hamper the simplicity of posting with Drummer. &lt;span style=&quot;background-color: yellow&quot;&gt;That lack of complexity is this system's USP&lt;/span&gt;." created="Fri, 19 Nov 2021 12:50:09 GMT"/>
+					</outline>
+				</outline>
+			<outline text="November 18" created="Thu, 18 Nov 2021 01:08:23 GMT" type="calendarDay" name="18">
+				<outline text="What are the benefits of &lt;a href=&quot;https://www.popsci.com/technology/beginners-guide-to-cryptocurrency/&quot;&gt;cryptocurrency&lt;/a&gt; for the general public? With money, isn't centralized control better? &lt;b&gt;PS&lt;/b&gt;: I understand conceptually what the benefits of the tech are. But the way it is currently implemented and is expected to work, the public just can't make any sense of it. Till there's a central organization bridging the gap that is -- which then completely defeats the purpose." created="Thu, 18 Nov 2021 04:10:31 GMT" type="outline" image="https://static.amitgawande.com/images/2021/margin/bitcoin.png"/>
+				<outline text="Is there a way to filter out the words from the Internet you read? I would love to put a few articles as blocked. Not a political stance, I just can't control myself from signing up for unnecessary side projects. Sigh! Themes, Editors, Static Engines - I will block them all :x" created="Thu, 18 Nov 2021 03:39:37 GMT" type="outline"/>
+				<outline text="I attended a workshop over the last 2 days. These workshops are like self-help books -- it's not that we don't know what we are being told by the presenter or the writer. That said, it's always good to be reminded of the things that you may have forgotten or may not be consciously aware of. I always evaluate such sessions with that view." created="Thu, 18 Nov 2021 01:17:36 GMT" type="outline"/>
+				<outline text="It's so frustrating to find shows in India. There's a growing list of famous TV shows that I can find no legal way to watch. Monk. Frasier. Etc. Every now and then I get recommended a show that I have missed and can't watch even now." created="Thu, 18 Nov 2021 01:08:24 GMT" type="tweet" tweetId="1461139615558082561" tweetUserName="_am1t"/>
+				<outline text="PublicFolder is not exactly what I thought it was" created="Thu, 18 Nov 2021 12:49:22 GMT" type="outline">
+					<outline text="&lt;a href=&quot;http://scripting.com/publicfolder/&quot;&gt;PublicFolder&lt;/a&gt; is a great app by Dave Winer to keep a folder on S3 in sync with a local folder. However, I wish it worked the other way round too, basically keep both the local and S3 files in sync. " created="Thu, 18 Nov 2021 12:53:59 GMT"/>
+					<outline text="I understand Dave's thought behind this, he even has it on the website. The way he words, it's an app to &quot;get ideas off the desktop and onto the web. That's exactly what it does. But what it means is today if I upload the file to S3 and not in local folder, it deletes the file from S3. That's not keeping things in sync, that's uploading things from local to S3, exactly what Dave wants, I guess." created="Thu, 18 Nov 2021 12:54:22 GMT"/>
+					<outline text="I expected the behaviour to be both ways, if there's a file missing anywhere, it should make sure it is brought in there. A file deletion needs to be explicit, just the way it is with Dropbox and likes. Till then, I think I will keep the app not running." created="Thu, 18 Nov 2021 12:54:10 GMT"/>
+					</outline>
+				</outline>
+			<outline text="November 14" created="Sun, 14 Nov 2021 04:42:39 GMT" type="calendarDay" name="14">
+				<outline text="Numbers are a funny business -- you tend to remember the sequence of them even if you haven't used that sequence for quite some time. The muscle memory just kicks in and make you enter just the right sequence. So crazy how our brains work!" created="Sun, 14 Nov 2021 04:42:40 GMT" type="outline"/>
+				<outline text="Not a fiddler anymore" created="Sun, 14 Nov 2021 04:45:38 GMT" type="outline">
+					<outline text="Recently &lt;a href=&quot;https://baty.blog/2021/11/13/104301.html?title=stayingOutOfTheWeeds#a104306&quot;&gt;Jack posted a change&lt;/a&gt; in his behavior. I am with Jack here. I don't enjoy fiddling any more. It's been some time now that I changed my blogging setup, the way to looks or works. Whatever comes out of box is fine enough for me." created="Sun, 14 Nov 2021 04:47:46 GMT">
+						<outline text="Something has changed lately. I haven't been fiddling as much. I kind of just want to use the software that I use. It's fine the way it is. Spending half of my days wandering around in the weeds of configuration and process hasn't been as interesting." created="Sun, 14 Nov 2021 04:45:53 GMT"/>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="November 9" created="Tue, 09 Nov 2021 06:51:08 GMT" type="calendarDay" name="09">
+				<outline text="I have never purchased a MS Office license separately before, I always got it bundled along with my laptop. Today, I tried shopping for one. Boy it's so costly - with or without subscription. " created="Tue, 09 Nov 2021 06:51:09 GMT" type="outline"/>
+				</outline>
+			<outline text="November 7" created="Sun, 07 Nov 2021 03:58:53 GMT" type="calendarDay" name="07">
+				<outline text="It has been a silent last few days for me -- way for any online activity. It is festive times at our home, spending time with family. Lots of celebrations, sweets, lights, games, laughs and time. Quality family time!" created="Sun, 07 Nov 2021 03:58:54 GMT" type="outline"/>
+				</outline>
+			<outline text="November 3" created="Wed, 03 Nov 2021 03:27:40 GMT" type="calendarDay" name="03">
+				<outline text="India did win their first &lt;a href=&quot;https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2021-22-1267897/afghanistan-vs-india-33rd-match-group-2-1273744/live-cricket-score&quot;&gt;T20 World Cup match&lt;/a&gt;. Doesn't matter that it was against Afghanistan. The way these two teams are playing, the result could have gone either way. Glad that it didn't happen -- hopes for semis are alive, barely." created="Wed, 03 Nov 2021 18:21:04 GMT" type="outline"/>
+				<outline text="It was a day when I didn't get a chance to sit at my system and pause. If that doesn't happen, my brain doesn't get a chance to idle around. If that doesn't happen, I don't think. If I don't think, I don't write. Today has been that day." created="Wed, 03 Nov 2021 03:27:41 GMT" type="outline"/>
+				</outline>
+			<outline text="November 2" created="Tue, 02 Nov 2021 04:08:19 GMT" type="calendarDay" name="02">
+				<outline text="Nice, finally the upgrade to Windows 11 is available for my laptop. Upgrading. I &lt;a href=&quot;https://ol.amitgawande.com/2021/10/13.html#a035619&quot;&gt;was looking forward&lt;/a&gt; to all the enhancements in this new refresh of Windows. Fingers crossed, the upgrade experience is as seamless as was for &lt;a href=&quot;https://ol.amitgawande.com/2021/10/26.html#a103148&quot;&gt;the recent macOS upgrade&lt;/a&gt;." created="Tue, 02 Nov 2021 05:13:18 GMT" type="outline" image="http://scripting.com/images/2018/07/19/strongman.png"/>
+				<outline text="I am backing up the opml to &lt;a href=&quot;https://github.com/am1t/musings-drmr&quot;&gt;a git repository&lt;/a&gt; and starting fresh each month. This is inspired by &lt;a href=&quot;http://scripting.com/2021/11/01/125625.html?title=theMonthlyRitual&quot;&gt;this monthly ritual by Dave Winer&lt;/a&gt;. This is a first test -- getting rid of all October entries from the blog.opml file. &lt;b&gt;Update: &lt;/b&gt;It worked, all the October posts are still rendered as expected on the home page and also on the archive page." created="Tue, 02 Nov 2021 04:08:20 GMT" type="outline"/>
+				<outline text="Thoughts on Windows 11" created="Tue, 02 Nov 2021 10:36:32 GMT" type="outline">
+					<outline text="I recently upgraded by PC to Windows 11. This is an running pool of my thoughts as I use this platform. It's not going to be short, and it's not going to be done in a day." created="Tue, 02 Nov 2021 10:36:45 GMT">
+						<outline text="First login experience, it's very different. Many things are changed. You know its Windows beneath, but only because I am used to the platform now." created="Tue, 02 Nov 2021 10:37:59 GMT"/>
+						<outline text="I hate the Taskbar, it's too thick for my liking. I have set it to auto-hide, it's that bad. " created="Tue, 02 Nov 2021 10:38:54 GMT"/>
+						<outline text="This platform looks to be tailored for the larger displays -- for example, this would look so great on iMac-style display. But on a smaller display, like my 14&quot; laptop, this looks worse than what Windows 10 did." created="Tue, 02 Nov 2021 10:39:18 GMT"/>
+						<outline text="I like the set of quick actions in the Ribbon in Explorer. They are all useful most of the time. The options look to be built post user research. Thumbs up!" created="Tue, 02 Nov 2021 11:02:35 GMT"/>
+						</outline>
+					</outline>
+				</outline>
+			<outline text="November 1" created="Mon, 01 Nov 2021 03:58:44 GMT" type="calendarDay" name="01">
+				<outline text="Another benefit of &lt;a href=&quot;https://ol.amitgawande.com/2021/10/26.html#a165232&quot;&gt;backing up my blog with Siri&lt;/a&gt;? I enjoy doing it so much, it feels so satisfying, that I do very often." created="Mon, 01 Nov 2021 13:58:19 GMT" type="tweet" tweetId="1455172743071211525" tweetUserName="_am1t"/>
+				<outline text="I know I am having fun blogging again when I read even &quot;begging&quot; as &quot;blogging&quot;. And I don't need to beg anyone to do that (:" created="Mon, 01 Nov 2021 06:37:52 GMT" type="outline"/>
+				<outline text="It's good to see &lt;a href=&quot;https://github.com/scripting/drummerSupport/issues&quot;&gt;the support page of Drummer&lt;/a&gt; less active. It's a lot stable now. And it's equally good to see the people who blog with Drummer do just that, finally. Blog." created="Mon, 01 Nov 2021 04:34:34 GMT" type="outline"/>
+				<outline text="&lt;a href=&quot;https://essays.amitgawande.com/goodbyes-are-hard/&quot;&gt;I decided recently&lt;/a&gt; that I didn't want to continue publishing issues for my newsletter -- I had grown wary of the format. I wasn't enjoying it. But, I do want to write personal stories and I wasn't sure if there are people interesting in those words. I was so glad to see there are people who want to stay subscribed!" created="Mon, 01 Nov 2021 03:58:45 GMT" type="outline"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>
